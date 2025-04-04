@@ -1,4 +1,3 @@
 CADA VERSION DEL PROYECTO SEGUIRA LA SIGUIENTE ESTRUCTURA
-V 0.0.0.1 y seguira cambando el ultimo numero hasta 9 el siguiente sera v 0.0.0.9 - v 0.0.1.0
+V 25.04.0.1 sera (v Año.Mes.num.num) y seguira cambiando el ultimo numero hasta 99 el siguiente sera v 25.4.0.99 - v 25.4.1.0
 
-Vale Agustheking pero por que no ponemos el formato V Dia.Mes.Año.0.1? Asi sabemos cuando haemos cambios
