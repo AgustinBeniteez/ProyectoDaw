@@ -1,0 +1,38 @@
+📁 Assets/
+├── 📁 Art/
+│   ├── 📁 Sprites/            ← HUD, íconos, crosshair, pickups
+│   ├── 📁 Textures/           ← Texturas para materiales
+│   ├── 📁 Models/             ← Modelos 3D si los hay
+│   └── 📁 VFX/                ← Efectos visuales (partículas, etc.)
+│
+├── 📁 Audio/
+│   ├── 📁 SFX/                ← Efectos de sonido (disparos, enemigos)
+│   └── 📁 Music/              ← Música de fondo por biomas o niveles
+│
+├── 📁 Code/
+│   ├── 📁 Core/               ← Singleton, control general del juego, managers
+│   ├── 📁 Player/             ← Movimiento, disparo, salud, cámara
+│   ├── 📁 Weapons/            ← Armas, munición, recarga, efectos
+│   ├── 📁 Enemies/            ← IA enemiga, patrones de ataque
+│   ├── 📁 DungeonGeneration/  ← Generación procedural, salas, puertas
+│   ├── 📁 UI/                 ← HUD, menús, interfaz de inventario
+│   └── 📁 Utilities/          ← Extensiones, herramientas, scripts genéricos
+│
+├── 📁 Prefabs/
+│   ├── 📁 Player/
+│   ├── 📁 Enemies/
+│   ├── 📁 Weapons/
+│   ├── 📁 Rooms/              ← Salas modulares para el dungeon
+│   └── 📁 Pickups/            ← Salud, munición, mejoras
+│
+├── 📁 Scenes/
+│   ├── 📄 MainMenu.unity
+│   ├── 📄 DungeonTest.unity
+│   └── 📄 GameOver.unity
+│
+├── 📁 Materials/
+├── 📁 Animations/
+├── 📁 Scripts/                ← Alias simbólico que redirige a Code/
+├── 📁 Resources/              ← Carga dinámica de assets (usa con cuidado)
+├── 📁 Plugins/                ← Input System, DOTween, etc.
+└── 📁 Editor/                 ← Custom Inspectors, PropertyDrawers
