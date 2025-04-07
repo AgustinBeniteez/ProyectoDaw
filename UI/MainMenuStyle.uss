@@ -1,0 +1,30 @@
+.button {
+    font-size: 80px;
+    -unity-font-definition: url("project://database/Assets/Menu%20Assets/Audiowide-Regular.otf?fileID=12800000&guid=bc11d3a540b890a4a9dd6f225c5191fa&type=3#Audiowide-Regular");
+    color: rgb(255, 0, 68);
+    opacity: 1;
+    visibility: visible;
+    overflow: visible;
+    background-color: rgba(0, 0, 0, 0);
+    transition-duration: 0.3s;
+    transition-timing-function: ease-out;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 2px;
+    border-bottom-color: rgba(255, 0, 68, 0.5);
+    text-shadow: 0 0 10px rgba(255, 0, 68, 0.5);
+    translate: 0 0;
+    scale: 1;
+}
+
+.button:hover {
+    color: rgb(0, 255, 255);
+    scale: 1.05;
+    text-shadow: 0 0 20px rgba(0, 255, 255, 0.8);
+    border-bottom-color: rgba(0, 255, 255, 0.8);
+    translate: 20px 0;
+}
+
+.header {
+}
