@@ -26,7 +26,7 @@ Este directorio contiene modelos 3D creados utilizando **Blockbench**. Los model
     ejemplo:
 
     ![Texture Example](https://raw.githubusercontent.com/AgustinBeniteez/ProyectoDaw/refs/heads/main/Modelos%203D/vending%20machine/texture_machine.png)
-    
+
     Si te das cuenta hay varias partes de la maquina en una misma textura.
     pero puedes usar mas de una sola textura para partes transparentes, cosas mas detalladas, etc...
 ---
@@ -39,9 +39,10 @@ Este directorio contiene modelos 3D creados utilizando **Blockbench**. Los model
 - Para elementos pequeños como **números, letras u otros detalles**, se permite usar un área mayor en el atlas (máximo `64px x 64px`).
 - Esto mejora la legibilidad sin romper el estilo visual del juego.
 - **No se permite usar texturas de resoluciones excesivas** (ej. 900px).
-- Si vas a añadir Nuemeros, letras ... usa la tipografia creada en Pixeart por Agustin ⬇️
+- Si vas a añadir Nuemeros, letras ... usa la tipografia creada en Pixeart por Agustin -->
   ![Textura de numeros Example](https://raw.githubusercontent.com/AgustinBeniteez/ProyectoDaw/refs/heads/main/Modelos%203D/Numbers_pixel.png)
-
+  ![Textura de letras Example](https://raw.githubusercontent.com/AgustinBeniteez/ProyectoDaw/refs/heads/main/Modelos%203D/letters_pixel.png)
+  
 ### 🧾 Formato de Nombre de Texturas
 Texture_NombreDelObjeto_NombreEspecial
 #### 🔤 Ejemplos:
