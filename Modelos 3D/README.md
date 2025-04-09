@@ -18,13 +18,15 @@ Este directorio contiene modelos 3D creados utilizando **Blockbench**. Los model
 
 ### 🛠 Herramienta de Modelado
 - Todos los modelos deben ser creados usando **Blockbench**.
-- El modelo final debe exportarse en formato **`.obj`**.
+- El modelo final debe exportarse en formato **`.obj`**.❗PUEDE SER CAMBIADO❗ No Exportar de momento solo el guradado de modelos.
 
 ### 📐 Resolución y Estilo de Textura
 - **Resolución base:** `32px x 32px`. (que en realidad es 128 x 128 píxeles)->
     esto pasa lo de 128px para meter todas las texturas de un modelo en un solo atlas.
     ejemplo:
+
     ![Texture Example](https://raw.githubusercontent.com/AgustinBeniteez/ProyectoDaw/refs/heads/main/Modelos%203D/vending%20machine/texture_machine.png)
+    
     Si te das cuenta hay varias partes de la maquina en una misma textura.
     pero puedes usar mas de una sola textura para partes transparentes, cosas mas detalladas, etc...
 ---
@@ -37,6 +39,8 @@ Este directorio contiene modelos 3D creados utilizando **Blockbench**. Los model
 - Para elementos pequeños como **números, letras u otros detalles**, se permite usar un área mayor en el atlas (máximo `64px x 64px`).
 - Esto mejora la legibilidad sin romper el estilo visual del juego.
 - **No se permite usar texturas de resoluciones excesivas** (ej. 900px).
+- Si vas a añadir Nuemeros, letras ... usa la tipografia creada en Pixeart por Agustin ⬇️
+  ![Textura de numeros Example](https://raw.githubusercontent.com/AgustinBeniteez/ProyectoDaw/refs/heads/main/Modelos%203D/Numbers_pixel.png)
 
 ### 🧾 Formato de Nombre de Texturas
 Texture_NombreDelObjeto_NombreEspecial
