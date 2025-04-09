@@ -1,11 +1,11 @@
-# Modelos 3D
+# Modelos 3D 📦
 
 Este directorio contiene modelos 3D creados utilizando **Blockbench**. Los modelos están diseñados con texturas de alta calidad y optimizados para su uso en proyectos que requieran un estilo voxel.
 
 ## Detalles de los Modelos
 
 - **Estilo:** Voxel.
-- **Herramienta de creación:** Blockbench.
+- **Herramienta de creación:** Blockbench -> https://www.blockbench.net/
 - **Resolución de texturas:** 128 píxeles.
 - **Tamaño de texturas:** 32x32.
 
@@ -19,7 +19,8 @@ Este directorio contiene modelos 3D creados utilizando **Blockbench**. Los model
 - **MODELADOR 3D:** AgustinBenitez
 - **MODELADOR 3D:** Marcos jimenes
 - **MODELADOR 3D:** Ferrer
-Todos los modelos y texturas han sido creados exclusivamente para este proyecto.
+
+- **INFO:** Todos los modelos y texturas han sido creados exclusivamente para este proyecto.
 
 ## Licencia
 
